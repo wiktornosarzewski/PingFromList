@@ -10,4 +10,4 @@ You need to put the 3 txt files in the same folder as the exe.
 
 You can change the IP addresses and names to your own.
 
-Application written in Python.
+Application written in Python 3.11.
